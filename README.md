@@ -1,5 +1,3 @@
-# 💫 About Me:
-I am a student from Politeknik Negeri Padang, majoring in Information<br>Technology, with a keen interest in the field of IT. I have a strong desire to<br>continuously learn and develop myself in my chosen field. I possess the ability<br>to effectively separate work responsibilities from personal matters, which<br>enhances the quality of my professionalism. Additionally, I am skilled in<br>organizing tasks and prioritizing them appropriately. I also have experience in<br>finding solutions to address situations where important matters arise<br>simultaneously
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fadhellyaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fadhellya) 
 
